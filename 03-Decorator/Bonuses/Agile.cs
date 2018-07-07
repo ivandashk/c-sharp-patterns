@@ -1,6 +1,6 @@
 ﻿namespace Decorator
 {
-    class Agile : IWeapon
+    class Agile : IBonus
     {
         private const string Name = "Agile";
         private readonly IWeapon _weapon;

@@ -45,6 +45,7 @@
     <Compile Include="Bonuses\Sharp.cs" />
     <Compile Include="Bonuses\Agile.cs" />
     <Compile Include="Bonuses\Holy.cs" />
+    <Compile Include="IBonus.cs" />
     <Compile Include="IWeapon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

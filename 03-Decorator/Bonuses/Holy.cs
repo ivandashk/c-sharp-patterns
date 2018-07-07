@@ -1,6 +1,6 @@
 ﻿namespace Decorator
 {
-    class Holy : IWeapon
+    class Holy : IBonus
     {
         private const string Name = "Holy";
         private readonly IWeapon _weapon;
