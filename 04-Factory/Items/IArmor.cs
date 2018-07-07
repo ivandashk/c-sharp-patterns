@@ -1,0 +1,6 @@
+﻿namespace Factory
+{
+    interface IArmor
+    {
+    }
+}
